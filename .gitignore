@@ -1,0 +1,8 @@
+
+*.env
+.prettierrc
+dist
+node_modules
+.cache
+dev-data
+package-lock.json
